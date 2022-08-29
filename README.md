@@ -31,4 +31,11 @@ Setelah Klik Button
 ![PRAKTIKUM 4](images/prak4l61.PNG)
 Setelah Perubahan Tanggal
 ![PRAKTIKUM 4](images/prak4l62.PNG)
+## TUGAS
+Pembuatan Class 
+![TUGAS](images/class.PNG)
+Hasil Akhir
+![TUGAS](images/tugas.PNG)
+
+
 
