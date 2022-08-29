@@ -1,7 +1,7 @@
 # flutter_fundamental_part1
 
-## PRAKTIKUM 1
-![PRAKTIKUM 1](images/prak1.PNG)
+## PRAKTIKUM 2
+![PRAKTIKUM 2](images/prak1.PNG)
 ## PRAKTIKUM 3
 Langkah 1
 ![PRAKTIKUM 3](images/prak3l1.PNG)
