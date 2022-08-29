@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_fundamental_part1/basic_widgets/image_widget.dart';
+import 'basic_widgets/text_widget.dart';
 
 void main() {
   runApp(const MyApp());
@@ -95,9 +97,8 @@ class _MyHomePageState extends State<MyHomePage> {
           // horizontal).
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            const Text(
-              'You have pushed the button this many times:',
-            ),
+            const MyTextWidget(),
+            const MyImageWidget(),
             Text(
               '$_counter',
               style: Theme.of(context).textTheme.headline4,
